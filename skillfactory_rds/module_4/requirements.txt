@@ -88,7 +88,7 @@ jupyter-core==4.6.3
 jupyter-highlight-selected-word==0.2.0
 jupyter-latex-envs==1.4.6
 jupyter-nbextensions-configurator @ file:///home/conda/feedstock_root/build_artifacts/jupyter_nbextensions_configurator_1594127094771/work
-jupyterlab==2.1.5
+jupyterlab==2.2.10
 jupyterlab-server @ file:///tmp/build/80754af9/jupyterlab_server_1594164409481/work
 keyring @ file:///tmp/build/80754af9/keyring_1593109704604/work
 kiwisolver==1.2.0
